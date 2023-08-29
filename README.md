@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Noname2303
 - 👀 I’m interested in learning new languages
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to working with google 
+
 
 
 <!---
